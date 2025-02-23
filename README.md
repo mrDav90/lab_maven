@@ -24,6 +24,7 @@ Ce projet permet de nous familiariser avec l'environnemt **Maven**.
 - Le module batch est un projet sping boot
 
   ![capt2](./lab1_2_jee_m2/captures/001.png)
+  
   ![capt3](./lab1_2_jee_m2/captures/002.png)
 
 
@@ -39,7 +40,9 @@ Ce projet permet de nous familiariser avec l'environnemt **Maven**.
  mvn clean install
  ```
   ![capt4](./lab1_3_jee_m2/captures/001.png)
+  
   ![capt5](./lab1_3_jee_m2/captures/002.png)
+  
   ![capt6](./lab1_3_jee_m2/captures/003.png)
   
 
