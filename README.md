@@ -12,7 +12,7 @@ Ce projet permet de nous familiariser avec l'environnemt **Maven**.
 - Le module web va gérer les controller
 - Le module start est le projet de démarrage
 
-   ![vagrantfile](./lab1_1_jee/captures/001.png)
+   ![capt1](./lab1_1_jee_m2/captures/001.png)
 
 
 ## LAB2
@@ -23,8 +23,8 @@ Ce projet permet de nous familiariser avec l'environnemt **Maven**.
 - Le module web est un projet tomcat
 - Le module batch est un projet sping boot
 
-  ![vagrantfile](./lab1_2_jee/captures/001.png)
-  ![vagrantfile](./lab1_2_jee/captures/002.png)
+  ![capt2](./lab1_2_jee_m2/captures/001.png)
+  ![capt3](./lab1_2_jee_m2/captures/002.png)
 
 
 ## LAB3
@@ -38,9 +38,9 @@ Ce projet permet de nous familiariser avec l'environnemt **Maven**.
  ```sh
  mvn clean install
  ```
-  ![vagrantfile](./lab1_3_jee/captures/001.png)
-  ![vagrantfile](./lab1_3_jee/captures/002.png)
-  ![vagrantfile](./lab1_3_jee/captures/003.png)
+  ![capt4](./lab1_3_jee_m2/captures/001.png)
+  ![capt5](./lab1_3_jee_m2/captures/002.png)
+  ![capt6](./lab1_3_jee_m2/captures/003.png)
   
 
 ✍ **Auteur** : @mrDav90
